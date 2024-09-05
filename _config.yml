@@ -111,13 +111,13 @@ analytics:
     anonymize_ip         : # true, false (default)
 
 
-# Site Author
+Site Author
 author:
-  name             : "qd_nevertheless"
+  name             : "qd-nevertheless"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "The challenge of a princess who dreams of becoming a **QUEEN**"
   location         : "Somewhere"
-  email            :
+  email            : "@queendoyu@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
