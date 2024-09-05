@@ -111,7 +111,7 @@ analytics:
     anonymize_ip         : # true, false (default)
 
 
-Site Author
+# Site Author
 author:
   name             : "qd-nevertheless"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
